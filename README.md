@@ -1,10 +1,13 @@
 Hi there 👋
 
-## Stable Side Projects
+## My Main Side Project
 
-#### Git
+This is Git Xtended, a shell tool that makes it easy to perform recurring actions with Git on a daily basis.
 
-* [git-xtended](https://github.com/jprivet-dev/git-xtended) - v1.1.0 - Git Xtended facilitates recurring Git actions in shell.
+* GitHub: https://github.com/jprivet-dev/git-xtended - v1.1.0
+* Documentation: https://www.jprivet.dev/git-xtended
+
+## Other Stable Side Projects
 
 #### Symfony
 
