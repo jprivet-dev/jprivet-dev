@@ -10,7 +10,7 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 ## My notes
 
-* [memos](https://github.com/jprivet-dev/memos) - Listing de mes mémos, tips et autres (PHP, Symfony, Asciidoctor, ...)
+* [memos](https://github.com/jprivet-dev/memos) - Listing of my memos, tips and others (PHP, Symfony, Asciidoctor, ...). Some of them in French.
 
 ## Other stable projects
 
