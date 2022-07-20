@@ -8,6 +8,10 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 * Last release: v1.1.0
 * Documentation: https://www.jprivet.dev/git-xtended
 
+## My notes
+
+* [memos](https://github.com/jprivet-dev/memos) - Listing de mes mémos, tips et autres (PHP, Symfony, Asciidoctor, ...)
+
 ## Other stable projects
 
 #### Symfony
@@ -30,10 +34,6 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 * [arduino-robobox-tinkercad](https://github.com/jprivet-dev/arduino-robobox-tinkercad) - Arduino / Robobox / Tinkercad (Autodesk) Projects & Tests
 * [robobox-02-bras-articule](https://github.com/jprivet-dev/robobox-02-bras-articule) - Robobox #2 (bras articulé) de @RoboboxFR
-
-## Notes
-
-* [memos](https://github.com/jprivet-dev/memos) - Listing de mes mémos, tips et autres (PHP, Symfony, Asciidoctor, ...)
 
 ## EXPERIMENTAL AREA!
 
