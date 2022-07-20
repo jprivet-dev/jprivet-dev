@@ -4,7 +4,8 @@ Hi there 👋 Here is an organized overview of my main projects on GitHub.
 
 This is Git Xtended, a shell tool that makes it easy to perform recurring actions with Git on a daily basis.
 
-* GitHub: https://github.com/jprivet-dev/git-xtended - v1.1.0
+* GitHub: https://github.com/jprivet-dev/git-xtended
+* Last release: v1.1.0
 * Documentation: https://www.jprivet.dev/git-xtended
 
 ## Other Stable Side Projects
@@ -36,7 +37,7 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 ## EXPERIMENTAL AREA!
 
-> Be careful with this projects that I share because I am in a phase of great uncertainty and doubt about the path to follow. Which patterns to apply? Which architecture to build? Which best practices to follow? And many other questions to which I try to find satisfactory answers.
+> Be careful with these projects. They work but I am still in a phase of uncertainty and doubt about the path to follow. Which patterns to apply? Which architecture to build? Which best practices to follow? And many other questions to which I try to find satisfactory answers.
 
 #### Three.js
 
