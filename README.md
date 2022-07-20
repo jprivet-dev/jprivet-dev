@@ -1,6 +1,6 @@
 Hi there 👋 Here is an organized overview of my main projects on GitHub.
 
-## Main Project
+## Git Xtended, my main side project
 
 This is Git Xtended, a shell tool that makes it easy to perform recurring actions with Git on a daily basis.
 
@@ -8,7 +8,7 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 * Last release: v1.1.0
 * Documentation: https://www.jprivet.dev/git-xtended
 
-## Other Stable Projects
+## Other stable projects
 
 #### Symfony
 
