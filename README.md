@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there 👋 Here is an organized overview of my main projects on GitHub.
 
 ## My Main Side Project
 
