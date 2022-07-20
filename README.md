@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-#### My side projects
+#### Side projects
 
 | Project | About | Version |
 |-|-|-|
@@ -8,7 +8,7 @@
 | [angular-eslint-prettier](https://github.com/jprivet-dev/angular-eslint-prettier) | Create a new Angular project with a minimal configuration of ESLint & Prettier, and set up your editor (PHPStorm, VSCode). | v14.0.4 |
 | [bootstrap-dark-mode](https://github.com/jprivet-dev/bootstrap-dark-mode) | Create your own Bootstrap dark mode by changing only variables. | v1.1.0 |
 
-#### My notes
+#### Notes
 
 | Project | About |
 |-|-|
