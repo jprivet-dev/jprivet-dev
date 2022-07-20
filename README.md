@@ -21,6 +21,10 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 * [bootstrap-dark-mode](https://github.com/jprivet-dev/bootstrap-dark-mode) - v1.1.0 - Create your own Bootstrap dark mode by changing only variables.
 
+#### Three.js
+
+* [three.js-create-earth](https://github.com/jprivet-dev/three.js-create-earth) - Classic example, but very fun for testing and discovering Three.js : with controls panel, change more than 70 parameters, and play with Sun, Earth and Moon, lens flares, textures, bump mapping, animations, lights, shadows, …
+
 #### Arduino & Robobox
 
 * [arduino-robobox-tinkercad](https://github.com/jprivet-dev/arduino-robobox-tinkercad) - Arduino / Robobox / Tinkercad (Autodesk) Projects & Tests
