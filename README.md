@@ -18,6 +18,10 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 * [angular-eslint-prettier](https://github.com/jprivet-dev/angular-eslint-prettier) - v14.0.4 - Create a new Angular project with a minimal configuration of ESLint & Prettier, and set up your editor (PHPStorm, VSCode).
 
+#### Chrome Extension & Angular
+
+* [chrome-extension-angular-starter-kit](https://github.com/jprivet-dev/chrome-extension-angular-starter-kit) - v14.0.2.0 - Base of a Chrome extension made with Angular, plus an advanced example.
+
 #### Bootstrap
 
 * [bootstrap-dark-mode](https://github.com/jprivet-dev/bootstrap-dark-mode) - v1.1.0 - Create your own Bootstrap dark mode by changing only variables.
