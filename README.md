@@ -24,11 +24,11 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 #### Bootstrap
 
-* [bootstrap-dark-mode](https://github.com/jprivet-dev/bootstrap-dark-mode) - v1.1.0 - Create your own Bootstrap dark mode by changing only variables.
+* [bootstrap-dark-mode](https://github.com/jprivet-dev/bootstrap-dark-mode) - v1.1.0 - Create your own Bootstrap dark mode by changing only variables. - (see the result on https://www.jprivet.dev/bootstrap-dark-mode)
 
 #### Three.js
 
-* [three.js-create-earth](https://github.com/jprivet-dev/three.js-create-earth) - Classic example, but very fun for testing and discovering Three.js : with controls panel, change more than 70 parameters, and play with Sun, Earth and Moon, lens flares, textures, bump mapping, animations, lights, shadows, …
+* [three.js-create-earth](https://github.com/jprivet-dev/three.js-create-earth) - Classic example, but very fun for testing and discovering Three.js : with controls panel, change more than 70 parameters, and play with Sun, Earth and Moon, lens flares, textures, bump mapping, animations, lights, shadows, … - (see the result on https://www.jprivet.dev/three.js-create-earth)
 
 #### Arduino & Robobox
 
@@ -45,4 +45,4 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 
 #### Three.js
 
-* [three.js-vr-angular](https://github.com/jprivet-dev/three.js-vr-angular) - Platform (made with Angular) to manage mini 3D projects with Three.js, and to experiment VR - (dockerized project)
+* [three.js-vr-angular](https://github.com/jprivet-dev/three.js-vr-angular) - Platform (made with Angular) to manage mini 3D projects with Three.js, and to experiment VR - (dockerized project) - (see the result on https://www.jprivet.dev/three.js-vr-angular)
