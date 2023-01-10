@@ -8,6 +8,8 @@ This is Git Xtended, a shell tool that makes it easy to perform recurring action
 * Last release: v1.1.0
 * Documentation: https://www.jprivet.dev/git-xtended
 
+![Git Xtended demo](https://www.jprivet.dev/assets/images/pages/git-xtended/gx-c-demo.gif)
+
 ## Other stable projects
 
 #### Symfony
