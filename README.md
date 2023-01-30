@@ -6,16 +6,20 @@ Hi there 👋 Here is an organized overview of my main projects on GitHub.
 
 Git Xtended is a shell tool that makes it easy to perform recurring actions with Git on a daily basis.
 
-* GitHub: https://github.com/jprivet-dev/git-xtended
-* Documentation: https://www.jprivet.dev/git-xtended
+|||
+|---|---|
+| GitHub | https://github.com/jprivet-dev/git-xtended |
+| Documentation | https://www.jprivet.dev/git-xtended |
 
 ### Excel Editor
 
-Study of an API (Symfony) and a SPA (Angular), to load data in CSV/Excel format, with consultation and modification of this data online.
+Study of a SPA (Angular) and an API (Symfony), with management of Excel files.
 
-* API (Symfony): https://github.com/jprivet-dev/excel-editor-api
-* SPA (Angular): https://github.com/jprivet-dev/excel-editor-spa
-* Insomnia: https://github.com/jprivet-dev/excel-editor-insomnia
+|||
+|---|---|
+| Part 1/3 - SPA with Angular | https://github.com/jprivet-dev/excel-editor-spa |
+| Part 2/3 - API with Symfony | https://github.com/jprivet-dev/excel-editor-api |
+| Part 3/3 - Debug with Insomnia | https://github.com/jprivet-dev/excel-editor-insomnia |
 
 ## Other projects
 
