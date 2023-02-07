@@ -17,9 +17,9 @@ Study of a SPA (Angular) and an API (Symfony), with management of Excel files.
 
 |||
 |---|---|
-| Part 1/3 - SPA with Angular | https://github.com/jprivet-dev/excel-editor-spa |
-| Part 2/3 - API with Symfony | https://github.com/jprivet-dev/excel-editor-api |
-| Part 3/3 - Debug with Insomnia | https://github.com/jprivet-dev/excel-editor-insomnia |
+| Excel Editor SPA | https://github.com/jprivet-dev/excel-editor-spa |
+| Excel Editor API | https://github.com/jprivet-dev/excel-editor-api |
+| Excel Editor Insomnia | https://github.com/jprivet-dev/excel-editor-insomnia |
 
 ## Other projects
 
