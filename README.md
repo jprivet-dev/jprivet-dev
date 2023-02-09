@@ -13,7 +13,7 @@ Git Xtended is a shell tool that makes it easy to perform recurring actions with
 
 ### Excel Editor
 
-Study of a SPA (Angular) and an API (Symfony), with management of Excel files.
+Study of a complete application, with a [SPA (Angular)](https://github.com/jprivet-dev/excel-editor-spa)  and an [API (Symfony)](https://github.com/jprivet-dev/excel-editor-api), which allows users to connect, and to be able, according to their rights, to import Excel data and modify them online.
 
 |||
 |---|---|
