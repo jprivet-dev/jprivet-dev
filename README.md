@@ -29,7 +29,8 @@ Study of a complete application, with a [SPA (Angular)](https://github.com/jpriv
 
 #### Angular
 
-* [angular-eslint-prettier](https://github.com/jprivet-dev/angular-eslint-prettier) :: Create a new Angular project with a minimal configuration of ESLint & Prettier, and set up your editor (PHPStorm, VSCode).
+* [angular-eslint-prettier](https://github.com/jprivet-dev/angular-eslint-prettier) :: Create a new Angular project with a minimal configuration of ESLint & Prettier, set up your editor (PHPStorm, VSCode) and launch the project in StackBlitz.
+* [angular-stackblitz](https://github.com/jprivet-dev/angular-stackblitz) :: Sandbox to locally generate a project with Angular CLI and launch it online in StackBlitz.
 
 #### Chrome Extension & Angular
 
