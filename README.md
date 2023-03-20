@@ -43,6 +43,8 @@ Study of a complete application, with a [SPA (Angular)](https://github.com/jpriv
 
 #### Three.js
 
+* [three.js-sandbox](https://github.com/jprivet-dev/three.js-sandbox) :: Test area with Three.js.
+  * Result on https://www.jprivet.dev/three.js-sandbox/
 * [three.js-create-earth](https://github.com/jprivet-dev/three.js-create-earth) :: Classic example, but very fun for testing and discovering Three.js : with controls panel, change more than 70 parameters, and play with Sun, Earth and Moon, lens flares, textures, bump mapping, animations, lights, shadows, …
   * Result on https://www.jprivet.dev/three.js-create-earth
 
