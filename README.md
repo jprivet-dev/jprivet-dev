@@ -32,6 +32,7 @@ Study of a complete application, with a [SPA (Angular)](https://github.com/jpriv
 
 * [angular-eslint-prettier](https://github.com/jprivet-dev/angular-eslint-prettier) :: Create a new Angular project with a minimal configuration of ESLint & Prettier, set up your editor (PHPStorm, VSCode) and launch the project in StackBlitz.
 * [angular-stackblitz](https://github.com/jprivet-dev/angular-stackblitz) :: Sandbox to locally generate a project with Angular CLI and launch it online in StackBlitz.
+* [angular-stackblitz-webcontainer](https://github.com/jprivet-dev/angular-stackblitz-webcontainer) :: Sandbox to locally generate a project with Angular CLI and launch it online in a WebContainer on StackBlitz.
 * [resistor-color-code-calculator](https://github.com/jprivet-dev/resistor-color-code-calculator) :: Application for reading resistor color code values for a 3, 4, 5 or 6 band resistor, applying Ohm’s law, calculating power, etc.
   * Result on https://www.jprivet.dev/resistor-color-code-calculator
 
