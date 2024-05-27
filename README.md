@@ -70,6 +70,11 @@ Result on https://www.jprivet.dev/three.js-vr-angular
 
 > Listing of my memos, tips and others (Some of them in French)
 
+### Devtools
+
+* Emulated Devices - Customised devices for testing responsive behaviour in Chrome or Firefox devtools.\
+https://gist.github.com/jprivet-dev/a0b4362599a941e0669d3f506484e548
+
 ### Angular / NgRx
 
 * [Mémo] GDG Toulouse - Faire du Redux avec Angular et NgRx v4 (Bruno Baia)\
